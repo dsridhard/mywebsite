@@ -1,0 +1,5 @@
+/* Add this to your Tailwind configuration */
+.active-link {
+    @apply bg-gray-200; /* Change this to your desired background color */
+  }
+  
